@@ -29,6 +29,12 @@ In-Use
 --------
 The effect can be seen here: [http://servomakes.com](http://servomakes.com)
 
+See Also
+--------
+A similar plugin precedes this one, written by Blake Turner. Having stumbled upon it after I wrote this, I was surprised to learn that they even share the same name. I will most like change the name to avoid confusion.
+
+You can see it here: [https://github.com/BlakeTurner/letterfade](https://github.com/BlakeTurner/letterfade)
+
 Author
 ---------
 (c) 2014 Moon Lee, Codeflow LLC
