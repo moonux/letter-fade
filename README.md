@@ -10,6 +10,7 @@ Dependencies
 Examples
 -------------
 
+```javascript
   $('#fade-me-out').letterFade(); // fade-out by default
   $('#fade-me-in').letterFade({ fade: 'in' });
 
@@ -20,6 +21,7 @@ Examples
   }, function() {
     // run this callback when the effect is complete
   });
+```
 
 The effect should be applied on document text that contains no children elements.
 
