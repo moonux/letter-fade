@@ -25,7 +25,7 @@ Examples
 
 The effect should be applied on document text that contains no children elements.
 
-Demo
+In-Use
 --------
 The effect can be seen here: [http://servomakes.com](http://servomakes.com)
 
